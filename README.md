@@ -89,7 +89,7 @@ lib
 # Installation Guide
 
 ## 1. Clone Repository
-
+https://github.com/Prakaykarn-mxtahqq/AI_NOTE_Final_Exam.git
 ## 2. Install Dependencies 
 flutter pub get
 
